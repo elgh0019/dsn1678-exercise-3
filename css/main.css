@@ -93,7 +93,7 @@ body {
   background-color: #000;
   border-radius: 6px;
 }
-.sales__details[datastate="active"] {
+.sales__details[data-state="active"] {
 	margin-top: 0;
 	opacity: 1;
 }
